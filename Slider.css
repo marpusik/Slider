@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+img {
+    width: 19.4vw;
+    height: 49vh;
+    transition:all 1s ease;
+}
+
+img:hover {
+    /*position: fixed;*/
+    /*z-index: 1;*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*bottom: 0;*/
+    /*right: 0;*/
+    /*width: auto;*/
+    /*height: auto;*/
+    /*max-width: 98%;*/
+    /*max-height: 98%;*/
+    /*margin: auto;*/
+    transform: scale(2);
+}
